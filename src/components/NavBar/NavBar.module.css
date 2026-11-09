@@ -1,0 +1,13 @@
+nav {
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 1.25rem;
+}

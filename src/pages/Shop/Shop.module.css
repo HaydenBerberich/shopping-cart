@@ -1,0 +1,14 @@
+.container {
+    margin: 0 50px;
+}
+
+.title {
+    font-size: 3rem;
+    margin: 15px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
